@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TriAngleUi": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}
